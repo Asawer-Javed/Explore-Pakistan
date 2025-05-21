@@ -5,4 +5,3 @@ Explore various regions of Pakistan
 🛠️ Built With
 Flask - Python web framework
 HTML5 & CSS3
-Bootstrap
